@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark_travel",
+  "version": "1.0.0",
+  "description": "Estudos Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natan1563/meadowlark_travel.git"
+  },
+  "author": "Natã Romão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natan1563/meadowlark_travel/issues"
+  },
+  "homepage": "https://github.com/natan1563/meadowlark_travel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
